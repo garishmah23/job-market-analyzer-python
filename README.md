@@ -86,17 +86,21 @@ The project uses a sample CSV dataset containing:
 ### Dashboard View
 
 ![Dashboard]
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-06-13 131403.png
+<img width="1918" height="1020" alt="Screenshot 2026-06-13 131403" src="https://github.com/user-attachments/assets/19c1196e-f9c1-4ca6-b917-a7e64e60880d" />
+
 
 ### Skill Search
 
 ![Search]
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-06-13 132001.png
+<img width="1917" height="1017" alt="Screenshot 2026-06-13 132001 - Copy" src="https://github.com/user-attachments/assets/9df16898-64ba-4698-ab47-5efef73aa24d" />
+
+
 
 ### Skill Demand Chart
 
 ![Chart]
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-06-13 132101.png
+<img width="1918" height="1017" alt="Screenshot 2026-06-13 132101" src="https://github.com/user-attachments/assets/da3a861a-186b-4e2d-ad84-75ea654a6c19" />
+
 
 ---
 
